@@ -11,3 +11,4 @@ add → track you’re files and change in Git
 commit → save you’re files on git
 push → upload git commits to a remote repo, like github 
 pull → download changes from the remote repo to you’re local machine , the opposite of push
+.
